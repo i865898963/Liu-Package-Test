@@ -28,4 +28,9 @@ class OpenPlatForm
 
         return json_encode($config_arr,JSON_UNESCAPED_UNICODE);
     }
+
+    public function testH()
+    {
+        return 'hello package';
+    }
 }
