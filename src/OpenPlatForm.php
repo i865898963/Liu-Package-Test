@@ -38,4 +38,9 @@ class OpenPlatForm
     {
         return 'hello testTag';
     }
+
+    public function getContent()
+    {
+        return 'getContent';
+    }
 }
