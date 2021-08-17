@@ -1,0 +1,17 @@
+{
+    "name": "liusir/wx-open-platform-for-laravel",
+    "description": "laravelPackage测试",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liuSir",
+            "email": "865898963@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LiuDev\\WxOpenPlatForm\\": "src"
+        }
+    },
+    "require": {}
+}
