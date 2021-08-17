@@ -33,4 +33,9 @@ class OpenPlatForm
     {
         return 'hello package';
     }
+
+    public function testTag()
+    {
+        return 'hello testTag';
+    }
 }

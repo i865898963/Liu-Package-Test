@@ -15,6 +15,7 @@ use Illuminate\Support\Facades\Facade;
  * @package LiuDev\WxOpenPlatForm\Facades
  * @method static \LiuDev\WxOpenPlatForm\OpenPlatForm testRun()
  * @method static \LiuDev\WxOpenPlatForm\OpenPlatForm testH()
+ * @method static \LiuDev\WxOpenPlatForm\OpenPlatForm testTag()
  */
 class OpenPlatForm extends Facade
 {
