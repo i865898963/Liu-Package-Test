@@ -13,5 +13,6 @@
             "LiuDev\\WxOpenPlatForm\\": "src"
         }
     },
+    "minimum-stability": "dev",
     "require": {}
 }
