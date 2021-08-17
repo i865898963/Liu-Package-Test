@@ -10,13 +10,13 @@
 
 providers = [
 
-LiuDev/wxOpenPlatform/service:class
+LiuDev\WxOpenPlatForm\WxOpenPlatformServiceProvider:class
 
 ]
 
 aliases = [
 
-'OpenPlatform' => ''
+'OpenPlatform' => 'LiuDev\WxOpenPlatForm\Facades\OpenPlatForm'
 
 ]
 
