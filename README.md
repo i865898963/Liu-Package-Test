@@ -14,7 +14,7 @@ composer require liusir/wx-open-platform-for-laravel
 配置alias:
 ```php
 'aliases' => [
-        'OpenPlatform' => 'LiuDev\WxOpenPlatForm\Facades\OpenPlatForm',
+       'OpenPlatform' => 'LiuDev\WxOpenPlatForm\Facades\OpenPlatForm',
     ],
 ```
 生成配置文件:
