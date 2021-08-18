@@ -7,14 +7,14 @@ composer require liusir/wx-open-platform-for-laravel
 ## Laravel 5.* 配置
 ```php
 'provider' => [
-       Zzl\Umeng\UmengServiceProvider::class, 
+       LiuDev\WxOpenPlatForm\WxOpenPlatformServiceProvider:class, 
     ],
 
 ```
 配置alias:
 ```php
 'aliases' => [
-        'Umeng' => Zzl\Umeng\Facades\Umeng::class,
+        'OpenPlatform' => 'LiuDev\WxOpenPlatForm\Facades\OpenPlatForm',
     ],
 ```
 生成配置文件:
